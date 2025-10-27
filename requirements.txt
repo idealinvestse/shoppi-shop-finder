@@ -1,0 +1,5 @@
+aiohttp==3.9.1
+tqdm==4.66.1
+backoff==2.2.1
+rich==13.7.0
+questionary==2.0.1
